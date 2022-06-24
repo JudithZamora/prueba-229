@@ -1,0 +1,92 @@
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+body{
+    background-color: #e5e5e5;
+}
+#menu li a:hover {
+    color: #2196F3;
+}
+#menu li .menuweb{
+    margin-top: 24px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+#menu li{
+    display: inline;
+    
+}
+.menudir{
+    margin-left: 50px;
+    font-family:'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+.contacthop{
+    margin-top: 24px;
+    margin-bottom: 25px;
+    margin-left: 1000px;
+    padding-left: 32px;
+}
+.buttons{
+    margin-left: 495px;
+    margin-right: 8px;
+    padding-bottom: 50px;
+    padding-top: 106px;
+}
+.buttons :hover{
+    background-color: #2196F3;
+    border-color: #2196F3;
+    color: #F5F4FA;
+}
+
+h4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+}
+p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #757575;
+}
+.imgmenu{
+    display: flex; flex-wrap: wrap;
+}
+.box{
+    border: 1px solid #EEEEEE;
+    padding-right: 30px;
+}
+footer{
+    background-color: #2F303A;
+}
+footer{
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+address{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
